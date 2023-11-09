@@ -1,5 +1,5 @@
 import { MainArticle} from "./componentes/MainComponent";
-import { Header } from "./componentes/header";
+import { Header } from "./componentes/Header";
 import { NewContainer } from "./componentes/NewContainer";
 import { ArticlesContainer } from "./componentes/ArticlesContainer";
 
